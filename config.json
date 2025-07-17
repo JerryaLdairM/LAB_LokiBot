@@ -1,0 +1,15 @@
+{
+  "servidor_c2": {
+    "host": "localhost",
+    "puerto": 5000
+  },
+  "servidor_phishing": {
+    "host": "localhost",
+    "puerto": 8000
+  },
+  "configuracion": {
+    "debug": false,
+    "logging": true,
+    "persistencia": true
+  }
+}

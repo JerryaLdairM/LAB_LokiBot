@@ -1,0 +1,4 @@
+# Credenciales de ejemplo para testing
+usuario@ejemplo.com:clave123
+admin@facebook.com:adminpass
+test@test.com:password123
